@@ -1,6 +1,6 @@
 {
   "name": "admin-bima",
-  "private": true,
+ 
   "scripts": {
     "dev": "next",
     "build": "next build",
@@ -48,7 +48,6 @@
     "eslint": "8.6.0",
     "eslint-config-next": "12.0.7",
     "postcss": "^8.4.8",
-    "tailwindcss": "^3.0.23"
-  },
+    "tailwindcss": "^3.0.23"}
  
 }
